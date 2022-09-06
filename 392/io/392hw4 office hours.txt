@@ -1,0 +1,5 @@
+numbers are printing in revsere order -> how to reverse my output
+last negative sign is a 1 instead of a negative
+how to newline with write
+seem to have fixed the garbage output but make sure
+input is stuck in infinite loop from terminal
